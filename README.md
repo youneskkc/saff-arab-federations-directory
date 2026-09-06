@@ -1,5 +1,9 @@
 # الاتحادات العربية المدرجة في saffportal.org
 
+## دليل منظمات العمل العربي المشترك
+
+الدليل الموسع لمنظمات وهيئات العمل العربي المشترك منشور في [مستودع مستقل](https://github.com/youneskkc/arab-joint-action-organizations) وله [صفحة GitHub Pages](https://youneskkc.github.io/arab-joint-action-organizations/). يشمل الجهات التي ذكرها SAFF Portal وإضافات موثقة من مواقع رسمية ومصادر مؤسسية، تحت رخصة [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 > نسخة بحثية قابلة للاستشهاد، آخر تحقق: 2026-09-06. المصدر الأساسي: https://saffportal.org/saff_members_arabic-sitemap.xml
 
 **عدد السجلات: 34**
