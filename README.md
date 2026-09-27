@@ -4,9 +4,9 @@
 
 الدليل الموسع لمنظمات وهيئات العمل العربي المشترك منشور في [مستودع مستقل](https://github.com/youneskkc/arab-joint-action-organizations) وله [صفحة GitHub Pages](https://youneskkc.github.io/arab-joint-action-organizations/). يشمل الجهات التي ذكرها SAFF Portal وإضافات موثقة من مواقع رسمية ومصادر مؤسسية، تحت رخصة [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-> نسخة بحثية قابلة للاستشهاد، آخر تحقق: 2026-09-06. المصدر الأساسي: https://saffportal.org/saff_members_arabic-sitemap.xml
+> نسخة بحثية قابلة للاستشهاد، آخر تحقق: 2026-09-27. المصدر الأساسي: https://saffportal.org/saff_members_arabic-sitemap.xml
 
-**عدد السجلات: 34**
+**عدد السجلات: 35**
 
 | # | الاتحاد | الموقع المباشر | الشبكات الاجتماعية | RSS/Atom |
 |---:|---|---|---|---|
@@ -44,6 +44,7 @@
 | 32 | الاتحاد العربي للمخلصين الجمركيين | [http://www.1auce.org/](http://www.1auce.org/) | لم يُعثر عليه | لم يُعثر عليه |
 | 33 | الاتحاد العربي لمكافحة التزوير والتزييف | غير مذكور | لم يُعثر عليه | لم يُعثر عليه |
 | 34 | الاتحاد العربي لمنتجي الأسماك | غير مذكور | لم يُعثر عليه | لم يُعثر عليه |
+| 35 | الاتحاد العربي لعلوم الفضاء والفلك | [https://auass.com/](https://auass.com/) | لم يُعثر عليه | لم يُعثر عليه |
 
 ## المنهجية
 
@@ -57,6 +58,7 @@
 
 - [خريطة صفحات الاتحادات في SAFF Portal](https://saffportal.org/saff_members_arabic-sitemap.xml)
 - [الموقع الرئيسي للملتقى](https://saffportal.org/)
+- [الموقع الرسمي للاتحاد العربي لعلوم الفضاء والفلك](https://auass.com/)
 
 ## الترخيص
 
