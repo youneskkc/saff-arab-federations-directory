@@ -6,7 +6,7 @@
 
 > نسخة بحثية قابلة للاستشهاد، آخر تحقق: 2026-10-06. المصدر الأساسي: https://saffportal.org/saff_members_arabic-sitemap.xml
 
-**عدد السجلات: 36**
+**عدد السجلات: 37**
 
 | # | الاتحاد | الموقع المباشر | الشبكات الاجتماعية | RSS/Atom |
 |---:|---|---|---|---|
@@ -45,7 +45,8 @@
 | 33 | الاتحاد العربي لمكافحة التزوير والتزييف | [https://aucfc.online/](https://aucfc.online/) | لم يُعثر عليه | لم يُعثر عليه |
 | 34 | الاتحاد العربي لمنتجي الأسماك | [http://kenanaonline.com/arabfish](http://kenanaonline.com/arabfish) | لم يُعثر عليه | لم يُعثر عليه |
 | 35 | الاتحاد العربي لعلوم الفضاء والفلك | [https://auass.com/](https://auass.com/) | لم يُعثر عليه | لم يُعثر عليه |
-| 36 | الشبكة العربية لمراكز البحث العلمي | [https://conference.asrcn.fasrc.org/](https://conference.asrcn.fasrc.org/) | [https://www.facebook.com/fasrc1976.org/posts/pfbid0Bj9PKxN5yUVqzSBu48HkW7iY8tBkUdWyYA8HHWtFtdh4QFiyfVwg64zRZSDdeVxvl/](https://www.facebook.com/fasrc1976.org/posts/pfbid0Bj9PKxN5yUVqzSBu48HkW7iY8tBkUdWyYA8HHWtFtdh4QFiyfVwg64zRZSDdeVxvl/) | لم يُعثر عليه |
+| 36 | اتحاد مجالس البحث العلمي العربية | [https://fasrc.org/](https://fasrc.org/) | [https://www.facebook.com/fasrc1976.org/](https://www.facebook.com/fasrc1976.org/) | لم يُعثر عليه |
+| 37 | الشبكة العربية لمراكز البحث العلمي | [https://conference.asrcn.fasrc.org/](https://conference.asrcn.fasrc.org/) | [https://www.facebook.com/fasrc1976.org/posts/pfbid0Bj9PKxN5yUVqzSBu48HkW7iY8tBkUdWyYA8HHWtFtdh4QFiyfVwg64zRZSDdeVxvl/](https://www.facebook.com/fasrc1976.org/posts/pfbid0Bj9PKxN5yUVqzSBu48HkW7iY8tBkUdWyYA8HHWtFtdh4QFiyfVwg64zRZSDdeVxvl/) | لم يُعثر عليه |
 
 ## المنهجية
 
@@ -54,7 +55,7 @@
 3. استُخرجت الروابط الخارجية من صفحات الاتحادات، واستُبعدت روابط الحسابات العامة المتكررة الخاصة بالملتقى `SAFFPAGE` من عمود الشبكات الاجتماعية.
 4. أُدرج الموقع كرابط مباشر رئيسي، وليس كرابط دليل أو صفحة شبكة اجتماعية، ما لم يكن ذلك هو الحضور الرسمي الوحيد الموثق للجهة.
 5. فُحصت الصفحة الرئيسية للموقع والمسارات الشائعة للخلاصات (`/feed/` و`/rss.xml` و`/atom.xml` و`?feed=rss2`) بحثًا عن RSS أو Atom. عدم وجود رابط في الجدول يعني عدم العثور عليه أثناء الفحص، ولا يثبت استحالة وجوده خلف مسار آخر أو عبر واجهة ديناميكية.
-6. أُدرجت الشبكة العربية لمراكز البحث العلمي بناءً على موقع مؤتمرها الرسمي التابع لاتحاد مجالس البحث العلمي العربية، مع رابط منشور في صفحة الاتحاد الرسمية على فيسبوك؛ ولم يُعثر على خلاصة RSS أو Atom مستقلة لها.
+6. أُدرج اتحاد مجالس البحث العلمي العربية والشبكة العربية لمراكز البحث العلمي كسجلين منفصلين؛ فالاتحاد هو الجهة المؤسسة أو المنظمة للشبكة، بينما الشبكة مبادرة للتعاون بين مراكز البحث العلمي العربية. أُدرجت الشبكة بناءً على موقع مؤتمرها الرسمي التابع للاتحاد، مع رابط منشور في صفحة الاتحاد الرسمية على فيسبوك؛ ولم يُعثر على خلاصة RSS أو Atom مستقلة لها.
 7. هذه القائمة تمثل ما أمكن التحقق منه حتى 2026-10-06، وقد تتغير مواقع الجهات أو روابطها لاحقًا.
 
 ## مصادر
